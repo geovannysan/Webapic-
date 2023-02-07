@@ -9,3 +9,4 @@ Services logica de clases o servicios
 dotnet add package  Microsoft.EntityFrameworkCore
 dotnet add package  Microsoft.EntityFrameworkCore.Sqlite
 dotnet add package  Microsoft.EntityFrameworkCore.Desing
+dotnet add package Microsoft.EntityFrameworkCore.Proxies
