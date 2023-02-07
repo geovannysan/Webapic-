@@ -1,0 +1,11 @@
+Controller capa de controladores de la aplicación llamar logica
+Data Capa de conexion BD
+Dtos tranferencia o tranformacion de datos
+Helper
+Mapper
+Services logica de clases o servicios
+   Interface  interfaz de servicios
+
+dotnet add package  Microsoft.EntityFrameworkCore
+dotnet add package  Microsoft.EntityFrameworkCore.Sqlite
+dotnet add package  Microsoft.EntityFrameworkCore.Desing
