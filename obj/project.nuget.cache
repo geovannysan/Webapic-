@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OGDb85ymWmNqM8Nv8UJEgYJKsmHu1CMkT+x1ksRgl9nXrWDZ3FBc64mZJNENOE9MkhRpdC7t8NJUCNT2vqqneA==",
+  "dgSpecHash": "zFBfq0rztKye2Qb/iLhDeAi5RNRMzyTDFVk8NL7IWeaneSkT6H8aaS6QsfMGoqOz2A62Z51UZMbS7mXbFSNhTw==",
   "success": true,
   "projectFilePath": "C:\\Users\\kaku\\Documents\\Microsoftde\\Microsoftde.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\kaku\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\kaku\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\kaku\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\kaku\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.3\\microsoft.aspnetcore.authentication.jwtbearer.7.0.3.nupkg.sha512",
     "C:\\Users\\kaku\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\kaku\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
     "C:\\Users\\kaku\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
