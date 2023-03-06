@@ -1,34 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kaku\\Documents\\Microsoftde\\Microsoftde.csproj": {}
+    "C:\\Users\\kaku\\Webapic-\\Microsoftde.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kaku\\Documents\\Microsoftde\\Microsoftde.csproj": {
+    "C:\\Users\\kaku\\Webapic-\\Microsoftde.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaku\\Documents\\Microsoftde\\Microsoftde.csproj",
+        "projectUniqueName": "C:\\Users\\kaku\\Webapic-\\Microsoftde.csproj",
         "projectName": "Microsoftde",
-        "projectPath": "C:\\Users\\kaku\\Documents\\Microsoftde\\Microsoftde.csproj",
+        "projectPath": "C:\\Users\\kaku\\Webapic-\\Microsoftde.csproj",
         "packagesPath": "C:\\Users\\kaku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaku\\Documents\\Microsoftde\\obj\\",
+        "outputPath": "C:\\Users\\kaku\\Webapic-\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kaku\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\kaku\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -99,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

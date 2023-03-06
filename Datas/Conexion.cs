@@ -7,7 +7,7 @@ namespace Microsoftde.Datas
 {
     public class Conexion
     {
-        public static string Rutaconexion = "Data Source=DESKTOP-FP06G0R;Initial Catalog=Prubatienda;Integrated Security=True; TrustServerCertificate=True;";
-
+        public static string Rutaconexion = "Server=http://127.0.0.1:1433;Initial Catalog=Prubatienda;User Id=sa;Password=mssql1Ipw;Integrated Security=True; TrustServerCertificate=True;";
+        private static string _connStr = @"Server=127.0.0.1,1401;Database=Master;  User Id=SA;  Password=YourSTRONG!Passw0rd";
     }
 }
