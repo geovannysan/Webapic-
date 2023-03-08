@@ -83,11 +83,16 @@ namespace Microsoftde.Datas
                         {
                             Lista.Add(new Usuarios()
                             {
-                                //  id= Convert.ToString(dr["id"]),
+                                 id = Convert.ToInt32(dr["id"]),
                                 nombre = dr["nombre"].ToString(),
                                 apellido = dr["apellido"].ToString(),
-                                email = dr["email"].ToString()
-
+                                email = dr["email"].ToString(),
+                                fecha = Convert.ToDateTime(dr["fecha"]),
+                                dni = Convert.ToInt32(dr["dni"]),
+                                domicilio = dr["domicilio"].ToString(),
+                                passwrd = dr["passwrd"].ToString(),
+                                permiso = dr["permiso"].ToString()
+                            
                             });
                         }
                     }

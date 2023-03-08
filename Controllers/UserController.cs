@@ -15,6 +15,7 @@ namespace Microsoftde.Controllers
         [HttpGet]
         public List<Usuarios> Get()
         {
+            //var Jso = JsonV
             return UserConexion.ListarUser();
         }
         [HttpGet("{id}")]
