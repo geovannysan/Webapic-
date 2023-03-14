@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoftde.Datas;
 using Microsoftde.Models;
+using Newtonsoft.Json;
 
 namespace Microsoftde.Controllers
 {
@@ -16,7 +17,8 @@ namespace Microsoftde.Controllers
         public List<Usuarios> Get()
         {
             //var Jso = JsonV
-            return UserConexion.ListarUser();
+            
+            return  UserConexion.ListarUser();
         }
         [HttpGet("{id}")]
         public Usuarios Get(int id)

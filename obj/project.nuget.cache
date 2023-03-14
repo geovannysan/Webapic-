@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BdlvtNJVHyJ5N3zZ0nQhTrxdoNLzcjvIjI/S5r4ihEfF2dGtGE/2TOj5u9EzH0RJ2HIFwXXSSY+ZBEXqtjFoFA==",
+  "dgSpecHash": "V1I/RiFXY37ESfWxCB/POdOj4oHVxEfw3NBDDB7AO1KJejS98EiJxFBQUmqb14LRcH/cDqrnZ1pLHstr+KqzBQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\kaku\\Webapic-\\Microsoftde.csproj",
   "expectedPackageFiles": [
@@ -79,7 +79,7 @@
     "C:\\Users\\kaku\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\kaku\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\kaku\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
-    "C:\\Users\\kaku\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\kaku\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\kaku\\.nuget\\packages\\nuget.common\\6.3.1\\nuget.common.6.3.1.nupkg.sha512",
     "C:\\Users\\kaku\\.nuget\\packages\\nuget.configuration\\6.3.1\\nuget.configuration.6.3.1.nupkg.sha512",
     "C:\\Users\\kaku\\.nuget\\packages\\nuget.dependencyresolver.core\\6.3.1\\nuget.dependencyresolver.core.6.3.1.nupkg.sha512",

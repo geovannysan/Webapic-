@@ -3,12 +3,8 @@
     "",
     "\\Controllers",
     "\\Datas",
-    "\\Datas\\Interface",
-    "\\Datas\\Producers",
-    "\\Dtos",
-    "\\Models",
-    "\\Services"
+    "\\Models"
   ],
-  "SelectedNode": "\\Controllers",
+  "SelectedNode": "\\bin",
   "PreviewInSolutionExplorer": false
 }
